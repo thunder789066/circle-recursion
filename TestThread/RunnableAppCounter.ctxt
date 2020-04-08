@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=delay\ x\ y
+comment0.target=RunnableAppCounter(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\tRunnable\ interface\ .run()\ method.\ Invoked\ by\ Thread\ when\ started\r\n
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

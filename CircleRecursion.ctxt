@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CircleRecursion()
+comment1.params=
+comment1.target=void\ createAndShowGUI()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ onWindowClosing()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=app
+comment6.target=void\ launchApp(CircleRecursion)
+comment7.params=e
+comment7.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment8.params=
+comment8.target=void\ run()
+numComments=9

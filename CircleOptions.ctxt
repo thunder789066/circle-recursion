@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=width\ height\ canvas\ listener
+comment0.target=CircleOptions(int,\ int,\ CircleCanvas,\ java.awt.event.ActionListener)
+comment1.params=
+comment1.target=int\ getDelay()
+comment1.text=\r\n\ Get\ current\ delay\r\n
+comment2.params=
+comment2.target=int\ getDepth()
+comment2.text=\r\n\ Get\ current\ recursion\ depth\r\n
+numComments=3

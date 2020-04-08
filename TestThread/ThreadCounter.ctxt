@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=n\ d
+comment0.target=ThreadCounter(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\ Override\ run(),\ which\ is\ empty\ in\ Thread\r\n\tWhen\ .start()\ is\ invoked,\ run()\ is\ invoked.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

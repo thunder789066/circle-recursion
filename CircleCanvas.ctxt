@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=w\ h
+comment0.target=CircleCanvas(int,\ int)
+comment1.params=limit
+comment1.target=void\ setLimit(int)
+comment1.text=\r\n\ Set\ limit\ of\ recursion\r\n
+comment2.params=
+comment2.target=void\ createNewCircles()
+comment2.text=\r\n\ Create\ all\ circles\r\n
+comment3.params=centerX\ centerY\ radius\ layer
+comment3.target=void\ createCircle(int,\ int,\ int,\ int)
+comment3.text=\r\n\t\t\t\t\t\tRECURSIVELY\ CREATE\ CIRCLES\t\t\t\t\t\t*\r\n
+comment4.params=
+comment4.target=boolean\ nextCircle()
+comment4.text=\r\n\ Draws\ the\ next\ circle\ in\ the\ list\ of\ created\ circles.\r\n\ Returns\ true\ if\ there\ are\ circles\ left\ to\ draw.\r\n
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment5.text=\r\n\ Draw\ all\ circles\ up\ to\ current\r\n
+numComments=6
